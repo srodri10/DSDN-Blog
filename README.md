@@ -7,18 +7,19 @@
 ## Table of Contents
 
 
-1.-Installation
-2.-Project Motivation
-3.-File Descriptions
-4.-Results
-5.-Licensing, Authors, and Acknowledgements
+1.-Installation  
+2.-Project Motivation  
+3.-File Descriptions  
+4.-Results  
+5.-Licensing, Authors, and Acknowledgements  
 
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation
-Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind in oder to create a blog post to share your questions and insights with a non-technical audience
-For this project, I was interestested in using Stack Overflow data from 2019 to 2020 for Spain to better understand:
+This project was done as part of Udacity's Data Science Nanodegree coursework. In it, I explore the 2019 and 2020 Stack Overflow Developer Survey, with the goal of create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind in oder to create a blog post to share your questions and insights with a non-technical audience
+
+For this project, I was interestested in a better understanding of:
 
 
 The ratio between men and women in the software developers comunity in Spain.
