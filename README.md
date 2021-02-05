@@ -43,7 +43,7 @@ The full data exploration is contained in the notebook Stack-Overflow-Survey-Ana
 
 
 ## Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the Medium blog post available [here]()
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data.
