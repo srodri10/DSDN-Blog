@@ -43,7 +43,7 @@ The full data exploration is contained in the notebook Stack-Overflow-Survey-Ana
 
 
 ## Results
-The main findings of the code can be found at the Medium blog post available [here]()
+The main findings of the code can be found at the Medium blog post available [here](https://santiago-rodriguez-trompeta.medium.com/stack-overflow-survey-spain-2019-2020-932a7672d61b)
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data.
