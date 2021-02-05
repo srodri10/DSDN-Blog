@@ -16,6 +16,8 @@
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
+The CSV table used in this project may be downloaded [here] (https://insights.stackoverflow.com/survey), in the link 'Download Full Data Set (CSV) under the '2019' and '2020' header.
+
 ## Project Motivation
 This project was done as part of Udacity's Data Science Nanodegree coursework. In it, I explore the 2019 and 2020 [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey), with the goal of create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind in oder to create a blog post to share your questions and insights with a non-technical audience
 
