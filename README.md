@@ -37,10 +37,13 @@ Because of this I will try to respond these three questions to explore in my inv
 #### Question #3: People with higher influence over the technology purchase show higher satisfaction than people with less influence?
 
 ## File Descriptions
-The notebook available here showcases work related to the above questions.
+The full data exploration is contained in the notebook Stack-Overflow-Survey-Analysis_Spain.ipynb. This is carried out according to the CRISP-DM process and the data science process - gather, assess, clean, analyze, model, and visualize. Markdown cells and comments are used to clarify all the steps and answer the questions I pose to the dataset.
+
 
 ## Results
 The main findings of the code can be found at the post available here.
 
 ## Licensing, Authors, Acknowledgements
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Stack Overflow for the data.
+My thanks, once again, to Stack Overflow and Stack Exchange, Inc. for making their yearly developer survey public at https://insights.stackoverflow.com/survey.
+Otherwise, feel free to use the code here as you would like!
